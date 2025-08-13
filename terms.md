@@ -1,5 +1,5 @@
 # Términos y Condiciones de Uso — Cambalachero
-**Última actualización:** [coloca la fecha aquí]
+**Última actualización:** 18/8/2025
 
 ## 1. Aceptación de los Términos
 Al descargar, registrarte y/o utilizar la aplicación móvil **Cambalachero** (“la App”), aceptas cumplir y quedar vinculado por estos Términos y Condiciones de Uso (“Términos”). Si no estás de acuerdo, por favor no utilices la App.
