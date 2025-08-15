@@ -1,7 +1,7 @@
 # Términos y Condiciones de Uso — Cambalachero
 
 ## 1. Aceptación de los Términos
-Al descargar, registrarte y/o utilizar la aplicación móvil **Cambalachero** (“la App”), aceptas cumplir y quedar vinculado por estos Términos y Condiciones de Uso (“Términos”). Si no estás de acuerdo, por favor no utilices la App.
+Al descargar, registrarte y/o utilizar la aplicación móvil **Cambalachero** (“la App”), aceptas cumplir y quedar vinculado por estos Términos y Condiciones de Uso (“Términos”).  
 
 ## 2. Descripción del Servicio
 Cambalachero es una plataforma que facilita la publicación, compra y venta de productos en línea. Los vendedores pueden subir sus productos, establecer precios y recibir pagos a través de la App. El procesamiento de pagos se realiza mediante **Stripe**, y la dispersión de fondos a vendedores se gestiona con **Stripe Connect**.
@@ -126,7 +126,7 @@ Podremos actualizar este Aviso; cualquier cambio se notificará en la App o vía
 # Terms and Conditions of Use — Cambalachero
 
 ## 1. Acceptance of Terms
-By downloading, registering, and/or using the **Cambalachero** mobile application (“the App”), you agree to comply with and be bound by these Terms and Conditions of Use (“Terms”). If you do not agree, please do not use the App.
+By downloading, registering, and/or using the **Cambalachero** mobile application (“the App”), you agree to comply with and be bound by these Terms and Conditions of Use (“Terms”).  
 
 ## 2. Service Description
 Cambalachero is a platform that facilitates the listing, purchase, and sale of products online. Sellers can upload their products, set prices, and receive payments through the App. Payments are processed via **Stripe**, and fund disbursement to sellers is managed through **Stripe Connect**.
